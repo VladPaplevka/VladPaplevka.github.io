@@ -1,7 +1,5 @@
-body, html{
+body{
 	background: #cfbeae ;
-	max-width:100%;
-	max-height: 100%;
 	overflow: hidden;
 }
 li{
@@ -27,5 +25,9 @@ li{
 	font-family: 'Indie Flower', cursive;
 	color: #fff;
 	text-align: center;
-	margin-top: 100%;
+	margin-top:100%; 
+	position: absolute;
+	width: 100%;
+
+	
 }
